@@ -38,4 +38,4 @@ jobs:
       - name: Build and Publish to Oxygen
         run: npx shopify hydrogen deploy
         env:
-          SHOPI.github/workflows/oxygen-deployment-1000028502.yml
+          shopify-konfiguracja-oxygen-workflow-equr
